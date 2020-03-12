@@ -47,6 +47,9 @@ production:
 
 => yay!rails!になる。
 
+![yay](https://user-images.githubusercontent.com/52321565/76489424-a7570e00-646b-11ea-9100-3d4beb80e03d.png)
+
+
 # webpacker(bootstrapとsass)導入
 
 `rails g controller home index`
